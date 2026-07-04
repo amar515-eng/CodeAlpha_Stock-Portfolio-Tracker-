@@ -118,4 +118,6 @@ Simple command-line interface that is easy to understand and use.
 
 ## Conclusion
 
-The Stock Portfolio Tracker is a beginner-friendly Python application that helps users calculate and manage their stock investments efficiently. It demonstrates core Python programming concepts such as dictionaries, loops, conditional statements, user input, arithmetic operations, and file handling. This project provides a strong foundation for building more advanced financial management applications in the future.<img width="332" height="315" alt="Screenshot 2026-07-04 111639" src="https://github.com/user-attachments/assets/5b6fd33b-851a-4073-bc46-d130d132ebe9" />
+The Stock Portfolio Tracker is a beginner-friendly Python application that helps users calculate and manage their stock investments efficiently. It demonstrates core Python programming concepts such as dictionaries, loops, conditional statements, user input, arithmetic operations, and file handling. This project provides a strong foundation for building more advanced financial management applications in the future.
+
+<img width="332" height="315" alt="Screenshot 2026-07-04 111639" src="https://github.com/user-attachments/assets/5b6fd33b-851a-4073-bc46-d130d132ebe9" />
